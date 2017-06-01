@@ -1,11 +1,11 @@
-h1{
+﻿h1{
   color: red;
 }
 
 .container{
   height: 100%;
   width: 100%;
-  background: url(./背景スクショ.PNG);
+  background: url(./bg.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
